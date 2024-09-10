@@ -1,11 +1,11 @@
-package Bloque1.SOLID.RobertoJorge.RefactoringLiskov;
+package Bloque1.SOLID.LiskovRobertoJorge.RefactoringLiskov;
 
 public class Main {
 
     public static void main(String[] args) {
 
         Persona alumno = new Alumno("Alexis", 10);
-        Maestro maestro = new Maestro("Mag", "Tecnologias");
+        Persona maestro = new Maestro("Mag", "Tecnologias");
 
         alumno.mostrarInfo();
         maestro.mostrarInfo();

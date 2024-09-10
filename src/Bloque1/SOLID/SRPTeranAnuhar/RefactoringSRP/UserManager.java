@@ -1,4 +1,4 @@
-package Bloque1.SOLID.TeranAnuhar.RefactoringSRP;
+package Bloque1.SOLID.SRPTeranAnuhar.RefactoringSRP;
 
 public class UserManager {
     private User[] users = new User[10];

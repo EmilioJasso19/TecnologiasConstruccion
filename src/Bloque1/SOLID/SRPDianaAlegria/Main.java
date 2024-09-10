@@ -1,8 +1,8 @@
-package Bloque1.SOLID.DianaAlegria;
+package Bloque1.SOLID.SRPDianaAlegria;
 
-import Bloque1.SOLID.DianaAlegria.RefactoringSRP.Book;
-import Bloque1.SOLID.DianaAlegria.RefactoringSRP.Library;
-import Bloque1.SOLID.DianaAlegria.RefactoringSRP.LibraryMember;
+import Bloque1.SOLID.SRPDianaAlegria.RefactoringSRP.Book;
+import Bloque1.SOLID.SRPDianaAlegria.RefactoringSRP.Library;
+import Bloque1.SOLID.SRPDianaAlegria.RefactoringSRP.LibraryMember;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Bloque1.SOLID.DiegoRafa.RefactoringOpenClosed;
+package Bloque1.SOLID.OpenClosedDiegoRafa.RefactoringOpenClosed;
 
 public class SavingAccount extends Account {
     public SavingAccount(double balance, String name, String accountType) {

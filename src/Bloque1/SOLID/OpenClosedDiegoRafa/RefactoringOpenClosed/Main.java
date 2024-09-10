@@ -1,6 +1,6 @@
-package Bloque1.SOLID.DiegoRafa.RefactoringOpenClosed;
+package Bloque1.SOLID.OpenClosedDiegoRafa.RefactoringOpenClosed;
 
-import Bloque1.SOLID.DiegoRafa.Account;
+import Bloque1.SOLID.OpenClosedDiegoRafa.Account;
 
 public class Main {
 

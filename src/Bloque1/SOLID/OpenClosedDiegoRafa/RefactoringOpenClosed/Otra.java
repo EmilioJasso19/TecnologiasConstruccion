@@ -1,6 +1,4 @@
-package Bloque1.SOLID.DiegoRafa.RefactoringOpenClosed;
-
-import Bloque1.SOLID.DiegoRafa.RefactoringOpenClosed.Account;
+package Bloque1.SOLID.OpenClosedDiegoRafa.RefactoringOpenClosed;
 
 public class Otra extends Account {
 

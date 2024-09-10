@@ -1,4 +1,4 @@
-package Bloque1.SOLID.RobertoJorge.RefactoringLiskov;
+package Bloque1.SOLID.LiskovRobertoJorge.RefactoringLiskov;
 
 public class Persona {
 

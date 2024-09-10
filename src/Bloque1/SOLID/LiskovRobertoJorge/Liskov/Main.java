@@ -1,4 +1,4 @@
-package Bloque1.SOLID.RobertoJorge.Liskov;
+package Bloque1.SOLID.LiskovRobertoJorge.Liskov;
 
 public class Main {
 

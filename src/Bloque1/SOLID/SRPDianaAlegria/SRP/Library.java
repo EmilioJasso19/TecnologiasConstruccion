@@ -1,4 +1,4 @@
-package Bloque1.SOLID.DianaAlegria.SRP;
+package Bloque1.SOLID.SRPDianaAlegria.SRP;
 
 import java.awt.print.Book;
 

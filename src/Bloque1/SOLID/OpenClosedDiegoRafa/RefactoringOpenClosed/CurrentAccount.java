@@ -1,4 +1,4 @@
-package Bloque1.SOLID.DiegoRafa.RefactoringOpenClosed;
+package Bloque1.SOLID.OpenClosedDiegoRafa.RefactoringOpenClosed;
 
 public class CurrentAccount extends Account {
 

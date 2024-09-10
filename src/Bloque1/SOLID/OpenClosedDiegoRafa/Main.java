@@ -1,4 +1,4 @@
-package Bloque1.SOLID.DiegoRafa;
+package Bloque1.SOLID.OpenClosedDiegoRafa;
 
 public class Main {
 

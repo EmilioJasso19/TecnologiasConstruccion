@@ -1,4 +1,4 @@
-package Bloque1.SOLID.DianaAlegria.RefactoringSRP;
+package Bloque1.SOLID.SRPDianaAlegria.RefactoringSRP;
 
 public class LibraryMember {
 

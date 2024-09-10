@@ -1,6 +1,6 @@
-package Bloque1.SOLID.TeranAnuhar.RefactoringSRP;
+package Bloque1.SOLID.SRPTeranAnuhar.RefactoringSRP;
 
-import Bloque1.SOLID.TeranAnuhar.SRP.UserManager;
+import Bloque1.SOLID.SRPTeranAnuhar.SRP.UserManager;
 
 public class Main {
 
